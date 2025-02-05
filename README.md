@@ -1,5 +1,7 @@
 # Oldy-Car
 
+Link to Notebook: https://github.com/saeedjazebi/Oldy-Car/blob/main/Oldy_Car.ipynb
+
 Executive Summary/Business Objectives-----
 In this application, i explored a dataset from Kaggle. The original dataset contained information on 3 million used cars. The used dataset contains information on 426K cars to ensure the speed of processing. The goal is to understand what factors make a car more or less expensive. 
 The client is a used car dealership and they asked for the parameters that the consumer value most in used cars. As a result of my analysis, I am providing clear recommendations to my client as to what kind of cars they should bring in their inventory.
